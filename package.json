@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o sass --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absark/portfolio.git"
+  },
+  "author": "absar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absark/portfolio/issues"
+  },
+  "homepage": "https://github.com/absark/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
